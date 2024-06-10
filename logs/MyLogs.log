@@ -1,0 +1,33 @@
+[INFO ] 2024-05-31 12:01:27.762 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:01:27.771 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:01:27.772 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:01:27.772 [main] Log4jDemo - this is fatal message
+[INFO ] 2024-05-31 12:03:17.895 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:03:17.904 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:03:17.907 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:03:17.908 [main] Log4jDemo - this is fatal message
+[TRACE] 2024-05-31 12:07:32.249 [main] Log4jDemo - this is trace message
+[INFO ] 2024-05-31 12:07:32.258 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:07:32.262 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:07:32.263 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:07:32.263 [main] Log4jDemo - this is fatal message
+[TRACE] 2024-05-31 12:52:16.236 [main] Log4jDemo - this is trace message
+[INFO ] 2024-05-31 12:52:16.246 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:52:16.246 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:52:16.247 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:52:16.247 [main] Log4jDemo - this is fatal message
+[TRACE] 2024-05-31 12:53:25.275 [main] Log4jDemo - this is trace message
+[INFO ] 2024-05-31 12:53:25.283 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:53:25.284 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:53:25.284 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:53:25.285 [main] Log4jDemo - this is fatal message
+[TRACE] 2024-05-31 12:53:37.616 [main] Log4jDemo - this is trace message
+[INFO ] 2024-05-31 12:53:37.625 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:53:37.625 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:53:37.626 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:53:37.626 [main] Log4jDemo - this is fatal message
+[TRACE] 2024-05-31 12:53:47.030 [main] Log4jDemo - this is trace message
+[INFO ] 2024-05-31 12:53:47.039 [main] Log4jDemo - this is an information message
+[ERROR] 2024-05-31 12:53:47.039 [main] Log4jDemo - this is error message
+[WARN ] 2024-05-31 12:53:47.039 [main] Log4jDemo - this is warn message
+[FATAL] 2024-05-31 12:53:47.040 [main] Log4jDemo - this is fatal message
